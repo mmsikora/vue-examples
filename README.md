@@ -1,6 +1,6 @@
 # vue-examples
 
-This is a grouping of [vue.js](https://vuejs.org)examples used to learn more about the frontend framework
+This is a grouping of [vue.js](https://vuejs.org) examples used to learn more about the frontend framework.
 
 ---
 ### Example 1 Hello vue.js
