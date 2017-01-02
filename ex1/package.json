@@ -1,8 +1,8 @@
 {
   "name": "ex1",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Hello world for vue.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
